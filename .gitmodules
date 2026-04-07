@@ -7,3 +7,6 @@
 [submodule "PM-Extensions"]
 	path = PM-Extensions
 	url = https://github.com/GermanCodeEngineer/PM-Extensions
+[submodule "PenguinMod-ExtensionsGallery"]
+	path = PenguinMod-ExtensionsGallery
+	url = https://github.com/GermanCodeEngineer/PenguinMod-ExtensionsGallery

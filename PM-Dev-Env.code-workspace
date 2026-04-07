@@ -2,7 +2,8 @@
   "folders": [
     { "path": "PenguinMod-Vm" },
     { "path": "penguinmod.github.io" },
-    { "path": "PM-Extensions" }
+    { "path": "PM-Extensions" },
+    { "path": "PenguinMod-ExtensionsGallery" }
   ],
   "settings": {}
 }
