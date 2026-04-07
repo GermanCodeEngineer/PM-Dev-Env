@@ -1,0 +1,9 @@
+[submodule "PenguinMod-Vm"]
+	path = PenguinMod-Vm
+	url = https://github.com/GermanCodeEngineer/PenguinMod-Vm
+[submodule "penguinmod.github.io"]
+	path = penguinmod.github.io
+	url = https://github.com/GermanCodeEngineer/penguinmod.github.io
+[submodule "PM-Extensions"]
+	path = PM-Extensions
+	url = https://github.com/GermanCodeEngineer/PM-Extensions
