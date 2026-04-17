@@ -10,3 +10,6 @@
 [submodule "PenguinMod-ExtensionsGallery"]
 	path = PenguinMod-ExtensionsGallery
 	url = https://github.com/GermanCodeEngineer/PenguinMod-ExtensionsGallery
+[submodule "SharkPools-Extensions"]
+	path = SharkPools-Extensions
+	url = https://github.com/SharkPool-SP/SharkPools-Extensions

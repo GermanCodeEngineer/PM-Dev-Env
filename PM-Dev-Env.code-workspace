@@ -3,7 +3,8 @@
     { "path": "PenguinMod-Vm" },
     { "path": "penguinmod.github.io" },
     { "path": "PM-Extensions" },
-    { "path": "PenguinMod-ExtensionsGallery" }
+    { "path": "PenguinMod-ExtensionsGallery" },
+    { "path": "SharkPools-Extensions" },
   ],
   "settings": {}
 }
